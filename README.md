@@ -4,8 +4,8 @@ Notebook `CLIP_thuc_nghiem.ipynb` kiểm chứng lại một phần kết quả 
 *Learning Transferable Visual Models From Natural Language Supervision* (Radford et al., 2021, arXiv:2103.00020).
 Nhóm dùng mô hình đã huấn luyện sẵn do tác giả công bố và chỉ chạy suy luận, không huấn luyện lại CLIP.
 
-- **Link Colab:** https://colab.research.google.com/drive/1_2B09eHFooiblv3mjbTbMBSJlCqfElFh (cần bật Chia sẻ → Bất kỳ ai có đường liên kết → Người xem)
-- **Video demo dự phòng:** `<dán link video vào đây>`
+- **Link Colab:** https://colab.research.google.com/drive/1_2B09eHFooiblv3mjbTbMBSJlCqfElFh
+
 
 ## 1. Mục tiêu thực nghiệm
 
