@@ -1,0 +1,5 @@
+﻿Phương pháp,Top-1 (%),Top-5 (%),Paper (ViT-B/32 %),Nguồn
+Zero-shot không prompt,60.44,85.62,,Nhóm tự chạy
+"Zero-shot prompt ""a photo of a {}.""",64.40,88.37,,Nhóm tự chạy
+Zero-shot ensemble 18 prompt,65.13,89.24,65.1,Nhóm tự chạy
+Linear probe (50000 ảnh train),80.03,96.24,80.5,Nhóm tự chạy
