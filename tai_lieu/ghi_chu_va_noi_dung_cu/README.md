@@ -1,1 +1,0 @@
-Các tài liệu trong thư mục này được giữ nguyên từ repository trước khi cập nhật. Một số nội dung có thể dựa trên phiên thực nghiệm cũ; vui lòng xem `../kiem_tra_nguon_so_lieu.md` và không mặc định số liệu ở đây là kết quả của phiên chạy cuối.

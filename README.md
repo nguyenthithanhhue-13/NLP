@@ -45,7 +45,7 @@ Kết quả **được lưu trong đầu ra ô thực nghiệm cuối của note
 
 Logistic Regression cao hơn zero-shot **14,27 điểm phần trăm Top-1** (tương ứng 1.427 ảnh dự đoán đúng nhiều hơn trên 10.000 ảnh Test). Chênh lệch Top-1 giữa Logistic Regression và AdamW là **0,55 điểm phần trăm**. Đây là so sánh trong **phiên chạy được lưu**, chưa đủ cơ sở để khẳng định một phương pháp luôn vượt trội ở các seed và cấu hình khác.
 
-Các bảng nguồn và ghi chú đối chiếu: [Kết quả Test](ket_qua/ket_qua_test_phien_cuoi.csv), [Validation](ket_qua/ket_qua_validation_prompt.csv), [Kiểm tra nguồn số liệu](tai_lieu/kiem_tra_nguon_so_lieu.md).
+Các bảng số liệu: [Kết quả Test](ket_qua/ket_qua_test_phien_cuoi.csv) và [Validation](ket_qua/ket_qua_validation_prompt.csv).
 
 ## 5. Cấu trúc thư mục
 
@@ -54,15 +54,11 @@ Các bảng nguồn và ghi chú đối chiếu: [Kết quả Test](ket_qua/ket_
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── tai_lieu/
-│   ├── kiem_tra_nguon_so_lieu.md
-│   └── ghi_chu_va_noi_dung_cu/     # tài liệu gốc, có thể thuộc phiên chạy trước
 ├── ket_qua/
 │   ├── ket_qua_test_phien_cuoi.csv
 │   ├── ket_qua_validation_prompt.csv
 │   ├── ket_qua_nhom_do_kho_test.csv
 │   ├── ket_qua_superclass_logistic_regression.csv
-│   └── luu_tru_phien_cu/           # kết quả cũ, không dùng làm kết quả phiên cuối
 ├── ma_nguon/
 │   └── HUONG_DAN_NOTEBOOK.md
 └── bai_bao_va_slide/
