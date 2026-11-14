@@ -1,0 +1,4 @@
+phuong_phap,tap_du_lieu,so_anh,top1_pct,top5_pct,macro_f1_pct,thoi_gian_hoc_giay,thoi_gian_du_doan_giay,nguon
+Zero-shot CLIP (18 prompt),Test,10000,65.12,89.24,64.31,0,1.318,Slide trang 18 va output notebook o Test
+Logistic Regression,Test,10000,79.39,96.16,79.43,81.07,0.050,Slide trang 18 va output notebook o Test
+AdamW linear probe,Test,10000,78.84,96.04,78.86,56.55,0.008,Slide trang 18 va output notebook o Test

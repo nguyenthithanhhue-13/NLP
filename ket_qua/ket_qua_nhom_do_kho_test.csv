@@ -1,0 +1,10 @@
+phuong_phap,nhom,so_lop,so_anh,top1_dung,top5_dung,top1_pct,top5_pct,nguon
+Zero-shot CLIP,A,35,3500,2985,3374,85.29,96.40,Output notebook o Test
+Zero-shot CLIP,B,32,3200,2148,2976,67.12,93.00,Output notebook o Test
+Zero-shot CLIP,C,33,3300,1379,2574,41.79,78.00,Output notebook o Test
+Logistic Regression,A,35,3500,3036,3414,86.74,97.54,Output notebook o Test
+Logistic Regression,B,32,3200,2654,3129,82.94,97.78,Output notebook o Test
+Logistic Regression,C,33,3300,2249,3073,68.15,93.12,Output notebook o Test
+AdamW linear probe,A,35,3500,3032,3408,86.63,97.37,Output notebook o Test
+AdamW linear probe,B,32,3200,2650,3126,82.81,97.69,Output notebook o Test
+AdamW linear probe,C,33,3300,2202,3070,66.73,93.03,Output notebook o Test

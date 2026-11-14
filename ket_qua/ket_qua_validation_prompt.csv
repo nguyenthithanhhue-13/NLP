@@ -1,0 +1,4 @@
+cau_hinh,tap_du_lieu,so_anh,top1_pct,top5_pct,macro_f1_pct,nguon
+Ten lop truc tiep,Validation,10000,60.24,85.37,59.09,Slide trang 16
+Mot prompt a photo of a {},Validation,10000,64.38,88.05,63.54,Slide trang 16
+Ensemble 18 prompt,Validation,10000,65.33,89.26,64.66,Slide trang 16
