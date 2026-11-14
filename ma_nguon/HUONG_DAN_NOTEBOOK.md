@@ -1,8 +1,7 @@
 # Notebook thực nghiệm
 
-**Tên tệp gốc:** `CLIP_CIFAR100_BAN_NOP_DA_CHINH_LOGIC (1).ipynb`.
+Notebook chính của nhóm: [CLIP_CIFAR100_BAN_NOP_DA_CHINH_LOGIC (1).ipynb](CLIP_CIFAR100_BAN_NOP_DA_CHINH_LOGIC%20%281%29.ipynb).
 
-Notebook gốc được nhóm cung cấp và **không chỉnh sửa mã nguồn** trong lần biên tập repository. Đầu ra đã lưu của ô Test cuối được dùng để đối chiếu với slide và các bảng CSV ở `ket_qua/`.
+Notebook trình bày quá trình chuẩn bị dữ liệu CIFAR-100, trích xuất đặc trưng bằng CLIP ViT-B/32, đánh giá zero-shot và huấn luyện các bộ phân loại tuyến tính trên đặc trưng ảnh. Nhóm sử dụng kết quả lưu trong notebook để lập bảng so sánh ở thư mục [`ket_qua/`](../ket_qua/).
 
-
-Khi tải notebook lên, đặt tên `CLIP_CIFAR100_BAN_NOP_DA_CHINH_LOGIC.ipynb` trong thư mục `ma_nguon/`. Chỉ đổi tên tệp, không chỉnh sửa cell, kết quả hoặc metadata. Để kiểm chứng, chạy lại từ đầu trong môi trường xác định và lưu lại toàn bộ đầu ra.
+Để tái lập thực nghiệm, cần sử dụng đúng cách chia dữ liệu, seed, cấu hình mô hình và tham số huấn luyện. Các kết quả trong repository phản ánh lần thực nghiệm đã được lưu; nhóm chưa báo cáo đánh giá lặp lại trên nhiều seed.
