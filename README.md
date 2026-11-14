@@ -77,7 +77,6 @@ Các bảng nguồn và ghi chú đối chiếu: [Kết quả Test](ket_qua/ket_
 4. Kiểm tra cách chia dữ liệu, seed, prompt, tham số, checkpoint và đầu ra trước khi đánh giá Test.
 5. Đối chiếu bảng sinh ra từ notebook với các CSV ở `ket_qua/`.
 
-**Trạng thái tệp:** Nội dung notebook, PDF và slide đã được cung cấp trong cuộc trò chuyện, nhưng **chưa được tải trực tiếp vào GitHub** qua kết nối hiện tại. Các tệp đó được ghi rõ tại `ma_nguon/` và `bai_bao_va_slide/`, không giả định là đã có trong repository.
 
 ## 7. Hạn chế
 
